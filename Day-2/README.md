@@ -11,7 +11,7 @@ import streamlit as st
 st.write('Hello world!')
 ```
 
-To the terminal, enter the following::
+To the terminal, enter the following:
 ```sh
 streamlit run streamlit_app.py
 ```
