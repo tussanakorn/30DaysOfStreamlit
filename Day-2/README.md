@@ -17,4 +17,4 @@ streamlit run streamlit_app.py
 ```
 
 ### first Streamlit app!
-![image](https://user-images.githubusercontent.com/80860852/163834753-0c54b3c6-f860-4339-b71b-af6f583b1c20.png)
+![image](https://user-images.githubusercontent.com/80860852/164520565-9cdabc7c-4be0-4000-beb0-5f84b61d77d2.png)
