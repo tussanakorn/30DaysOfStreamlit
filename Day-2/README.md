@@ -2,7 +2,7 @@
 
 # Building your first Streamlit app
 
-สร้างไฟล์ชื่อ streamlit_app.py
+สร้างไฟล์ชื่อ `streamlit_app.py`
 
 Entering your first lines of code:
 ```sh
